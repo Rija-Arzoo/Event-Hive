@@ -170,3 +170,4 @@ Event-Hive
    └─ worker.js
 
 ```
+(eventhive_architecture.png)
